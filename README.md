@@ -91,7 +91,7 @@
 		<section id="hlink">
 			<h3>HYPERLINK REFERENCE:</h3>
 			<ul>
-				<li><a href="https://Githubpage2.html">Click for registration!!</a></li>
+				<li><a href="http://Githubpage2.html">Click for registration!!</a></li>
 				<li><a href="www.google.com">Click for google</a></li>
 				<li><a href="www.facebook.com">Click for facebook</a></li>
 				<li><a href="www.amazon.com">Click for amazon</a></li>
