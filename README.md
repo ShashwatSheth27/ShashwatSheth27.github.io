@@ -125,9 +125,6 @@
 						<option value="INDIA">
 						<option value="INDIA">
 				</div>
-				
-				
-				
 				<button>Submit</button>
 				
 			</form>
