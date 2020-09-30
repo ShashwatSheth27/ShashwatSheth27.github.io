@@ -1,5 +1,4 @@
-# SHASHWAT-27.github.io
-<!doctype html>
+
 <html lang="en">
 	<head>
 		<title>EDX LECTURE--0 </title>
@@ -94,7 +93,7 @@
 				    ENTER YOUR FULL NAME:-
 					<input type="text" placeholder="FULL NAME" name="name"><br>
 					ENTER YOUR PASSWORD:-
-					<input type="password" name="password" placeholder="password" ><br>
+					<input type="password" name="password" placeholder="password" >
 				</div>
 				
 				
