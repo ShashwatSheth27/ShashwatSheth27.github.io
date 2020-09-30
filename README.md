@@ -87,85 +87,11 @@
 				</table>
 			
 		</section>
-		<section class="body">
-		<h3>FORM FORMAT</h3>
-		<h3>PLEASE FILL THE FOLLOWING:</h3>
-			<form>
-				<div>
-				    ENTER YOUR FULL NAME:-
-					<input type="text" placeholder="FULL NAME" name="name"><br>
-					ENTER YOUR PASSWORD:-
-					<input type="password" name="password" placeholder="password" >
-				</div>
-				
-				
-				<div>
-					FAVOURITE COLOUR!!!
-					<input type="radio" name="color" value="red">RED
-					<input type="radio" name="color" value="green">GREEN
-					<input type="radio" name="color" value="blue">BLUE
-					<input type="radio" name="color" value="yellow">YELLOW
-				</div>
-				
-				
-				<div>
-					NATIONALITY:-
-					<input name="COUNTRY" list="countries" placeholder="country"><br>
-					<datalist id="countries">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-						<option value="INDIA">
-				</div>
-				<button>Submit</button>
-				
-			</form>
-		</section>
-		<section class="body">
-			<h3>FLEXBOX--</h3>
-			<div id="container">
-				<div>1.This is some sample text inside of a div to demo flexbox.</div>
-				<div>2.This is some sample text inside of a div to demo flexbox.</div>
-				<div>3.This is some sample text inside of a div to demo flexbox.</div>
-				<div>4.This is some sample text inside of a div to demo flexbox.</div>
-				<div>5.This is some sample text inside of a div to demo flexbox.</div>
-				<div>6.This is some sample text inside of a div to demo flexbox.</div>
-				<div>7.This is some sample text inside of a div to demo flexbox.</div>
-				<div>8.This is some sample text inside of a div to demo flexbox.</div>
-				<div>9.This is some sample text inside of a div to demo flexbox.</div>
-				<div>10.This is some sample text inside of a div to demo flexbox.</div>
-				<div>11.This is some sample text inside of a div to demo flexbox.</div>
-				<div>12.This is some sample text inside of a div to demo flexbox.</div>
-			</div>
-		</section>
-		<section class="body">
-			<h3>GRID BOX---</h3>
-			<div id="grid">
-					<div class="griditem">1.</div>
-					<div class="griditem">2.</div>
-					<div class="griditem">3.</div>
-					<div class="griditem">4.</div>
-					<div class="griditem">5.</div>
-					<div class="griditem">6.</div>
-					<div class="griditem">7.</div>
-					<div class="griditem">8.</div>
-					<div class="griditem">9.</div>
-					<div class="griditem">10.</div>
-					<div class="griditem">11.</div>
-					<div class="griditem">12.</div>
-			</div>
-		</section>
+		
 		<section id="hlink">
 			<h3>HYPERLINK REFERENCE:</h3>
 			<ul>
+				<li><a href="http://Githubpage@2.html">Click for registration!!</a><li>
 				<li><a href="www.google.com">Click for google</a></li>
 				<li><a href="www.facebook.com">Click for facebook</a></li>
 				<li><a href="www.amazon.com">Click for amazon</a></li>
