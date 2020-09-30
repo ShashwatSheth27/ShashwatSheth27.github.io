@@ -24,6 +24,8 @@
 					<ol>
 						<li>NEW ACCOUNT</li>
 					</ol>
+				<li>FLEXBOX</li>
+				<li>GRID</li>
 				<li>HYPERLINK</li>
 					<ol>
 						<li>GOOGLE</li>
@@ -31,8 +33,7 @@
 						<li>AMAZON</li>
 						<li>FLIPCART</li>
 					</ol>
-				<li>FLEXBOX</li>
-				<li>GRID</li>
+				
 			</ul>
 			
 		</section>
@@ -91,9 +92,9 @@
 			<form>
 				<div>
 				    ENTER YOUR FULL NAME:-
-					<input type="text" placeholder="FULL NAME" name="name">
+					<input type="text" placeholder="FULL NAME" name="name"><br>
 					ENTER YOUR PASSWORD:-
-					<input type="password" name="password" placeholder="password" >
+					<input type="password" name="password" placeholder="password" ><br>
 				</div>
 				
 				
