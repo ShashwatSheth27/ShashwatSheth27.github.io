@@ -92,10 +92,10 @@
 			<h3>HYPERLINK REFERENCE:</h3>
 			<ul>
 				<li><a href="Githubpage2.html">Click for registration!!</a></li>
-				<li><a href="www.google.com">Click for google</a></li>
-				<li><a href="www.facebook.com">Click for facebook</a></li>
-				<li><a href="www.amazon.com">Click for amazon</a></li>
-				<li><a href="www.flipcart.com">Click for flipcart</a></li>
+				<li><a href="https://google.com">Click for google</a></li>
+				<li><a href="https://facebook.com">Click for facebook</a></li>
+				<li><a href="https://amazon.com">Click for amazon</a></li>
+				<li><a href="https://flipcart.com">Click for flipcart</a></li>
                         </ul>
 		</section>
 	</body>
